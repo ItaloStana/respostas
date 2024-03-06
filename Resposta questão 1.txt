@@ -1,0 +1,18 @@
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+A variável SOMA, será: 
+Esse trecho provavelmente é um pseudocódigo que representa um loop que adiciona os números de 1 a 13 incluindo a variável SOMA: que é '91'
